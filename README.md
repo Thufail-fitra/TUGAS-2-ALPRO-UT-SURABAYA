@@ -18,6 +18,14 @@ Kode di dalam repositori ini mungkin masih memerlukan perbaikan. Selalu periksa 
 
 ---
 
+## 📹 Demo Video
+
+Anda dapat melihat penjelasan atau demo dari tugas ini di YouTube:
+
+* **[TUGAS 2 - ALGORITMA DAN PEMROGRAMAN](https://youtu.be/Wt4c2YDMlco?si=6Nqo5XDkZ6XvYWGK)**
+
+---
+
 ## 📜 Catatan Penggunaan
 
 Silakan gunakan kode ini sebagai referensi untuk belajar. Jika Anda memutuskan untuk menggunakan sebagian atau seluruh kode ini:
